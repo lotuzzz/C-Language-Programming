@@ -1,7 +1,7 @@
 # C语言程序设计（专升本）
 
 [![](https://badgen.net/badge/icon/Website?icon=chrome&label)](https://feeds.pub/cn-独立) 
-[![](https://badgen.net/badge/icon/Telegram?icon=telegram&label)](https://t.me/DataTricker)
+[![](https://badgen.net/badge/icon/Telegram?icon=telegram&label)](https://t.me/DateTricker)
 [![](https://badgen.net/badge/icon/Blog?icon=chrome&label)](https://blog.t9t.io/cn-独立博客-2019-10-29/)
 
 ## 赞助商
